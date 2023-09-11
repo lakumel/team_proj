@@ -1,0 +1,4 @@
+공지사항 
+  - application.properties , build.gradle, SecurityConfig.java 
+    : 수정시 팀장님에게 보고후 팀장님이 수정 후 모든 팀원들이 pull을 통해서 동기화 해야함. 
+     
